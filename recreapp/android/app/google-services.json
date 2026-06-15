@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "902741165",
+    "project_id": "recrea-273f9",
+    "storage_bucket": "recrea-273f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902741165:android:8266681b3e58e234321a24",
+        "android_client_info": {
+          "package_name": "com.maybolenterprises.co.recreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLOK7g38jLr0G2iNBhUZJUspWfAtuMeoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902741165:android:3efa3ac96da5c9a7321a24",
+        "android_client_info": {
+          "package_name": "com.recrea.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLOK7g38jLr0G2iNBhUZJUspWfAtuMeoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
